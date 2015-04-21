@@ -1,0 +1,2 @@
+# discourse-allowall
+Discourse ALLOWALL
